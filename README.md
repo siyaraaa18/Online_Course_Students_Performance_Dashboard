@@ -5,7 +5,7 @@
 
 This end-to-end analytics project transforms raw student data into actionable insights through a structured ETL process using Excel and Power BI. The analysis evaluates learning effectiveness, engagement patterns, and completion drivers across global student demographics.
 
-## **Objectives:**
+## **🎯 Objectives:**
 
 -Assess student engagement levels and learning progress
 
