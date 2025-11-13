@@ -1,4 +1,4 @@
-## **📊 Online Course Student Performance Analysis**
+## **📊 Online Course Students Performance Analysis**
 **🧩 Domain: Data Analytics**
 
 ## **📘 Project Overview**
